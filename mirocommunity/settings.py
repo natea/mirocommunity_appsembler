@@ -145,7 +145,7 @@ MIDDLEWARE_CLASSES = (
     'localtv.middleware.UserIsAdminMiddleware',
 )
 
-ROOT_URLCONF = 'urls'
+ROOT_URLCONF = 'mirocommunity.urls'
 
 UPLOADTEMPLATE_MEDIA_ROOT = MEDIA_ROOT + 'uploadtemplate/'
 UPLOADTEMPLATE_MEDIA_URL = MEDIA_URL + 'uploadtemplate/'
