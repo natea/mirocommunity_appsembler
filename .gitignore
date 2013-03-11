@@ -33,3 +33,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+mirocommunity/db.sl3
+mirocommunity/whoosh_index/
+mirocommunity/static/
